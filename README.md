@@ -2,7 +2,7 @@
 
 In this python project, I solve the Klotski puzzle using recursion. No optimisations have been done here, however, it can further be worked upon to improve its **effiecieny** . Below I have tried to explain my methodology as simply as I could.
 
-The klotski_puzzle.py file takes around 7,000 steps to solve. This is the minimum number of steps I could achieve, using recursion. Other permutations, either resulted in no soultion or were in the 25000-35000 range.
+The klotski_puzzle.py file takes around 4,000 steps to solve. This is the minimum number of steps I could achieve, using recursion. Other permutations, either resulted in no soultion or were in the 25000-35000 range.
 
 ### HOW DOES IT WORK
 
